@@ -1,0 +1,12 @@
+[
+  {"question":"Berapakah hasil dari 12 × 8?","options":["86","96","108","112"],"answer":1},
+  {"question":"Jika 3x + 5 = 20, maka x = ...","options":["3","5","7","8"],"answer":1},
+  {"question":"Luas persegi dengan sisi 9 cm adalah ...","options":["18 cm²","36 cm²","72 cm²","81 cm²"],"answer":3},
+  {"question":"Nilai dari 2⁵ adalah ...","options":["10","16","25","32"],"answer":3},
+  {"question":"Rata-rata 6, 8, 10, dan 12 adalah ...","options":["8","9","10","11"],"answer":1},
+  {"question":"Hasil dari 144 ÷ 12 adalah ...","options":["10","11","12","14"],"answer":2},
+  {"question":"Luas segitiga alas 10 cm dan tinggi 6 cm adalah ...","options":["20 cm²","30 cm²","40 cm²","60 cm²"],"answer":1},
+  {"question":"Hasil dari 15 + 7 × 2 adalah ...","options":["44","29","30","34"],"answer":1},
+  {"question":"FPB dari 24 dan 36 adalah ...","options":["6","8","12","18"],"answer":2},
+  {"question":"25% dari 200 adalah ...","options":["25","40","50","75"],"answer":2}
+]
